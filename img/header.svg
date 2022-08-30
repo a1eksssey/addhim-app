@@ -1,0 +1,9 @@
+<svg viewbox="0 0 375 188" fill="rgba(243, 212, 220, 1)" preserveaspectratio="xMidYMid slice">
+                    <path d="
+                    M 0,0
+                    L0, 188
+                    A94, 94, 0, 0, 1, 94, 94
+                    L281, 94
+                    A94, 94, 90, 0, 0, 375, 0
+                    Z" />
+                </svg>
